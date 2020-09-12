@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RecommendationRunner
+comment0.text=\r\n\ Write\ a\ description\ of\ RecommendationRunner\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getItemsToRate()
+comment2.params=webRaterID
+comment2.target=void\ printRecommendationsFor(java.lang.String)
+numComments=3
